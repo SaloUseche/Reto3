@@ -1,0 +1,16 @@
+reto3\backend\repositories\crud\ILaptopCrudRepository.class
+reto3\backend\services\UserService.class
+reto3\backend\repositories2\LaptopRepository.class
+reto3\backend\repositories\crud\IUserCrudRepository.class
+reto3\backend\repositories2\UserRepository.class
+reto3\backend\services\OrderService.class
+reto3\backend\Reto3Application.class
+reto3\backend\repositories\crud\IOrderCrudRepository.class
+reto3\backend\controllers\LaptopController.class
+reto3\backend\controllers\OrderController.class
+reto3\backend\controllers\UserController.class
+reto3\backend\models\User.class
+reto3\backend\models\Order.class
+reto3\backend\repositories2\OrderRepository.class
+reto3\backend\models\Laptop.class
+reto3\backend\services\LaptopService.class
